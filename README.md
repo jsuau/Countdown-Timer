@@ -24,7 +24,7 @@ The objective of Countdown Timer is to provide a continuously decrementing displ
 - User can see a countdown timers for each event that has been defined.
 
 # Useful links and resources
-[Images of analog tube-based countdown timers](https://nixieshop.com/)
-[clearInterval MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)
-[setInterval MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
+[Images of analog tube-based countdown timers](https://nixieshop.com/)<br/>
+[clearInterval MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/clearInterval)<br/>
+[setInterval MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)<br/>
 [Date MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
